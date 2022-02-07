@@ -7,7 +7,6 @@ We list the most popular methods for Vision Transformer, if I missed something, 
 ## Self-supervied Vision Transformers as backbone models.
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
-
 2021-06-14|BeiT|ICLR 2022(Oral)|[BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)|[BeiT](https://github.com/microsoft/unilm/tree/master/beit)
 2021-11-11|MAE|Arxiv 2021|[Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377.pdf)|[MAE](https://github.com/facebookresearch/mae)
 2021-11-18|SimMIM|Arxiv 2021|[SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/pdf/2111.09886.pdf)|[SimMIM](https://github.com/microsoft/SimMIM)
