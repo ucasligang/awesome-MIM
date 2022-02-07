@@ -13,4 +13,4 @@ Date|Method|Conference|Title|Code
 2021-12-20|SplitMask|Arxiv 2021|[Are Large-scale Datasets Necessary for Self-Supervised Pre-training?](https://arxiv.org/pdf/2112.10740.pdf)|None
 
 
-Todo:MaskFeat,iBoT,DINO
+Todo:MaskFeat
