@@ -15,4 +15,4 @@ Date|Method|Conference|Title|Code
 2021-12-20|SplitMask|Arxiv 2021|[Are Large-scale Datasets Necessary for Self-Supervised Pre-training?](https://arxiv.org/pdf/2112.10740.pdf)|None
 2022-01-31|ADIOS|Arxiv 2022|[Adversarial Masking for Self-Supervised Learning](https://arxiv.org/pdf/2201.13100.pdf)|None
 2022-02-07|CAE|Arxiv 2022|[Context Autoencoder for Self-Supervised Representation Learning](https://arxiv.org/pdf/2202.03026.pdf)|None
-
+2022-02-07|CIM|Arxiv 2022|[Corrupted Image Modeling for Self-Supervised Visual Pre-Training](https://arxiv.org/pdf/2202.03382.pdf)|None
