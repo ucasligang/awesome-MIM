@@ -19,4 +19,6 @@ Date|Method|Conference|Title|Code
 2022-02-07|CIM|Arxiv 2022|[Corrupted Image Modeling for Self-Supervised Visual Pre-Training](https://arxiv.org/pdf/2202.03382.pdf)|None
 
 ## Image generation.
+Date|Method|Conference|Title|Code
+-----|----|-----|-----|-----
 2022-02-08|CIM|Arxiv 2022|[MaskGIT: Masked Generative Image Transformer](https://arxiv.org/pdf/2202.04200.pdf)|None
