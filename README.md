@@ -21,4 +21,4 @@ Date|Method|Conference|Title|Code
 ## Image generation.
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
-2022-02-08|CIM|Arxiv 2022|[MaskGIT: Masked Generative Image Transformer](https://arxiv.org/pdf/2202.04200.pdf)|None
+2022-02-08|MaskGIT|Arxiv 2022|[MaskGIT: Masked Generative Image Transformer](https://arxiv.org/pdf/2202.04200.pdf)|None
