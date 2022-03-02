@@ -8,7 +8,7 @@ We list the most popular methods for MIM, if I missed something, please submit a
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2020-xx-xx(maybe 2019)|iGPT|ICML 2020|[Generative Pretraining from Pixels](http://proceedings.mlr.press/v119/chen20s/chen20s.pdf)|[iGPT](https://github.com/openai/image-gpt)
-2020-10-22|ViT|ICLR 2021(Oral)|[AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/abs/2010.11929)|[ViT](https://github.com/google-research/vision_transformer)
+2020-10-22|ViT|ICLR 2021(Oral)|[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)|[ViT](https://github.com/google-research/vision_transformer)
 2021-06-10|MST|NeurIPS 2021|[MST: Masked Self-Supervised Transformer for Visual Representation](https://arxiv.org/pdf/2106.05656.pdf)|None
 2021-06-14|BeiT|ICLR 2022(Oral)|[BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)|[BeiT](https://github.com/microsoft/unilm/tree/master/beit)
 2021-11-11|MAE|Arxiv 2021|[Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377.pdf)|[MAE](https://github.com/facebookresearch/mae)
