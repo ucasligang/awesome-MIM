@@ -21,6 +21,11 @@ Date|Method|Conference|Title|Code
 2022-02-07|CAE|Arxiv 2022|[Context Autoencoder for Self-Supervised Representation Learning](https://arxiv.org/pdf/2202.03026.pdf)|None
 2022-02-07|CIM|Arxiv 2022|[Corrupted Image Modeling for Self-Supervised Visual Pre-Training](https://arxiv.org/pdf/2202.03382.pdf)|None
 
+## 3D.
+Date|Method|Conference|Title|Code
+-----|----|-----|-----|-----
+2021-11-29|Point-BERT|Arxiv 2021|[Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling](https://arxiv.org/pdf/2111.14819.pdf)|[Point-BERT](https://github.com/lulutang0608/Point-BERT)
+
 ## Image generation.
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
