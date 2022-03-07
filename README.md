@@ -21,6 +21,8 @@ Date|Method|Conference|Title|Code
 2022-02-07|CAE|Arxiv 2022|[Context Autoencoder for Self-Supervised Representation Learning](https://arxiv.org/pdf/2202.03026.pdf)|None
 2022-02-07|CIM|Arxiv 2022|[Corrupted Image Modeling for Self-Supervised Visual Pre-Training](https://arxiv.org/pdf/2202.03382.pdf)|None
 
+# Others:
+
 ## 3D.
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
@@ -30,3 +32,8 @@ Date|Method|Conference|Title|Code
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2022-02-08|MaskGIT|Arxiv 2022|[MaskGIT: Masked Generative Image Transformer](https://arxiv.org/pdf/2202.04200.pdf)|None
+
+## Video.
+Date|Method|Conference|Title|Code
+-----|----|-----|-----|-----
+2021-03-03|BEVT|Arxiv 2022|[BEVT: BERT Pretraining of Video Transformers](https://arxiv.org/pdf/2112.01529.pdf)|[BEVT](https://github.com/xyzforever/BEVT)
