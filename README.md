@@ -1,8 +1,8 @@
 # awesome-MIM
 Reading list for research topics in Masked Image Modeling(MIM).
 
-We list the most popular methods for MIM, if I missed something, please submit a request.
-(Note: We show the date of the first version of Arxiv here. But the link of paper may be not the early version.)
+We list the most popular methods for MIM, if we missed something, please submit a request.
+(Note: We show the date the first edition of the paper was submitted to arxiv, but the link to the paper may be up to date.)
 
 
 ## Self-supervied Vision Transformers as backbone models.
