@@ -37,4 +37,6 @@ Date|Method|Conference|Title|Code
 ## Video.
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
-2021-03-03|BEVT|Arxiv 2022|[BEVT: BERT Pretraining of Video Transformers](https://arxiv.org/pdf/2112.01529.pdf)|[BEVT](https://github.com/xyzforever/BEVT)
+2021-12-02|BEVT|Arxiv 2021|[BEVT: BERT Pretraining of Video Transformers](https://arxiv.org/pdf/2112.01529.pdf)|[BEVT](https://github.com/xyzforever/BEVT)
+2022-03-24|VideoMAE|Arxiv 2022|[VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training](https://arxiv.org/abs/2203.12602)|[VideoMAE](https://github.com/MCG-NJU/VideoMAE)
+
