@@ -30,6 +30,7 @@ Date|Method|Conference|Title|Code
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2021-11-29|Point-BERT|Arxiv 2021|[Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling](https://arxiv.org/pdf/2111.14819.pdf)|[Point-BERT](https://github.com/lulutang0608/Point-BERT)
+2022-03-28|Point-MAE|Arxiv 2022|[Masked Autoencoders for Point Cloud Self-supervised Learning](https://arxiv.org/pdf/2203.06604.pdf)|[Point-MAE](https://github.com/Pang-Yatian/Point-MAE)
 
 ## Image generation.
 Date|Method|Conference|Title|Code
@@ -41,4 +42,12 @@ Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2021-12-02|BEVT|Arxiv 2021|[BEVT: BERT Pretraining of Video Transformers](https://arxiv.org/pdf/2112.01529.pdf)|[BEVT](https://github.com/xyzforever/BEVT)
 2022-03-23|VideoMAE|Arxiv 2022|[VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training](https://arxiv.org/abs/2203.12602)|[VideoMAE](https://github.com/MCG-NJU/VideoMAE)
+
+
+
+## Multi-modal.
+Date|Method|Conference|Title|Code
+-----|----|-----|-----|-----
+2022-04-04|MultiMAE|Arxiv 2022|[MultiMAE: Multi-modal Multi-task Masked Autoencoders](https://arxiv.org/pdf/2204.01678.pdf)|[MultiMAE](https://github.com/EPFL-VILAB/MultiMAE)
+
 
