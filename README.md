@@ -7,7 +7,7 @@ We list the most popular methods for MIM, if we missed something, please submit 
 
 ## Self-supervied Vision Transformers as backbone models.
 Date|Method|Conference|Title|Code
------|-----|-----|-----|-----
+-----|-------|-----|-----|-----
 2020-xx-xx(maybe 2019)|iGPT|ICML 2020|[Generative Pretraining from Pixels](http://proceedings.mlr.press/v119/chen20s/chen20s.pdf)|[iGPT](https://github.com/openai/image-gpt)
 2020-10-22|ViT|ICLR 2021 (Oral)|[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)|[ViT](https://github.com/google-research/vision_transformer)
 2021-04-08|SiT|Arxiv 2021|[SiT: Self-supervised vIsion Transformer](https://arxiv.org/pdf/2104.03602.pdf)|None
