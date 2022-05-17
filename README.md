@@ -31,8 +31,7 @@ Date|Method|Conference|Title|Code
 ## Object detection.
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
-2022-04-06|MIMDet|Arxiv 2022|[Unleashing Vanilla Vision Transformer with Masked
-Image Modeling for Object Detection](https://arxiv.org/pdf/2204.02964.pdf)|[MIMDet](https://github.com/hustvl/MIMDet)
+2022-04-06|MIMDet|Arxiv 2022|[Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection](https://arxiv.org/pdf/2204.02964.pdf)|[MIMDet](https://github.com/hustvl/MIMDet)
 
 ## 3D.
 Date|Method|Conference|Title|Code
