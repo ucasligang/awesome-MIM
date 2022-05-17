@@ -28,6 +28,11 @@ Date|Method|Conference|Title|Code
 2022-03-29|mc-BEiT|Arxiv 2022|[mc-BEiT: Multi-choice Discretization for Image BERT Pre-training](https://arxiv.org/pdf/2203.15371.pdf)|None
 2022-04-18|Ge2-AE|Arxiv 2022|[The Devil is in the Frequency: Geminated Gestalt Autoencoder for Self-Supervised Visual Pre-Training](https://arxiv.org/pdf/2204.08227.pdf)|None
 # Others:
+## Object detection.
+Date|Method|Conference|Title|Code
+-----|----|-----|-----|-----
+2022-04-06|MIMDet|Arxiv 2022|[Unleashing Vanilla Vision Transformer with Masked
+Image Modeling for Object Detection](https://arxiv.org/pdf/2204.02964.pdf)|[MIMDet](https://github.com/hustvl/MIMDet)
 
 ## 3D.
 Date|Method|Conference|Title|Code
