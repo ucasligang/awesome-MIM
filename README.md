@@ -27,6 +27,9 @@ Date|Method|Conference|Title|Code
 2022-03-23|AttMask|Arxiv 2022|[What to Hide from Your Students: Attention-Guided Masked Image Modeling](https://arxiv.org/pdf/2203.12719.pdf)|None
 2022-03-29|mc-BEiT|Arxiv 2022|[mc-BEiT: Multi-choice Discretization for Image BERT Pre-training](https://arxiv.org/pdf/2203.15371.pdf)|None
 2022-04-18|Ge2-AE|Arxiv 2022|[The Devil is in the Frequency: Geminated Gestalt Autoencoder for Self-Supervised Visual Pre-Training](https://arxiv.org/pdf/2204.08227.pdf)|None
+2022-05-20|UM-MAE|Arxiv 2022|[Uniform Masking: Enabling MAE Pre-training for
+Pyramid-based Vision Transformers with Locality](https://arxiv.org/pdf/2205.10063.pdf)|[UM-MAE](https://github.com/implus/UM-MAE)
+
 # Others:
 ## Object detection.
 Date|Method|Conference|Title|Code
