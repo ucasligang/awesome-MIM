@@ -54,10 +54,12 @@ Date|Method|Conference|Title|Code
 2022-03-23|VideoMAE|Arxiv 2022|[VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training](https://arxiv.org/abs/2203.12602)|[VideoMAE](https://github.com/MCG-NJU/VideoMAE)
 
 
-
 ## Multi-modal.
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2022-04-04|MultiMAE|Arxiv 2022|[MultiMAE: Multi-modal Multi-task Masked Autoencoders](https://arxiv.org/pdf/2204.01678.pdf)|[MultiMAE](https://github.com/EPFL-VILAB/MultiMAE)
 
-
+## Medical.
+Date|Method|Conference|Title|Code
+-----|----|-----|-----|-----
+2022-03-10|MedMAE|Arxiv 2022|[Self Pre-training with Masked Autoencoders for Medical Image Analysis](https://arxiv.org/pdf/2203.05573.pdf)|None
