@@ -32,7 +32,7 @@ Date|Method|Conference|Title|Code
 2022-05-26|GreenMIM|Arxiv 2022|[Green Hierarchical Vision Transformer for Masked Image Modeling](https://arxiv.org/pdf/2205.13515.pdf)|[GreenMIM](https://github.com/LayneH/GreenMIM)
 2022-05-26|MixMIM|Arxiv 2022|[MixMIM: Mixed and Masked Image Modeling for Efficient Visual Representation Learning](https://arxiv.org/pdf/2205.13137.pdf)|[Code is Opening](https://github.com/Sense-X/MixMIM)
 2022-05-28|SupMAE|Arxiv 2022|[SupMAE: Supervised Masked Autoencoders Are Efficient Vision Learners](https://arxiv.org/pdf/2205.14540.pdf)|[SupMAE](https://github.com/cmu-enyac/supmae)
-
+2022-05-30|HiViT|Arxiv 2022|[HiViT: Hierarchical Vision Transformer Meets Masked Image Modeling](https://arxiv.org/abs/2205.14949.pdf)|None
 
 # Others:
 ## Object detection.
