@@ -62,6 +62,7 @@ Date|Method|Conference|Title|Code
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2022-04-04|MultiMAE|Arxiv 2022|[MultiMAE: Multi-modal Multi-task Masked Autoencoders](https://arxiv.org/pdf/2204.01678.pdf)|[MultiMAE](https://github.com/EPFL-VILAB/MultiMAE)
+2022-05-27|M3AE|Arxiv 2022|[Multimodal Masked Autoencoders Learn Transferable Representations](https://arxiv.org/pdf/2205.14204.pdf)| None
 
 ## Medical.
 Date|Method|Conference|Title|Code
