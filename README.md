@@ -24,7 +24,7 @@ Date|Method|Conference|Title|Code
 2022-02-07|CAE|Arxiv 2022|[Context Autoencoder for Self-Supervised Representation Learning](https://arxiv.org/pdf/2202.03026.pdf)|[CAE](https://github.com/lxtGH/CAE)
 2022-02-07|CIM|Arxiv 2022|[Corrupted Image Modeling for Self-Supervised Visual Pre-Training](https://arxiv.org/pdf/2202.03382.pdf)|None
 2022-03-10|MVP|Arxiv 2022|[MVP: Multimodality-guided Visual Pre-training](https://arxiv.org/pdf/2203.05175.pdf)|None
-2022-03-23|AttMask|Arxiv 2022|[What to Hide from Your Students: Attention-Guided Masked Image Modeling](https://arxiv.org/pdf/2203.12719.pdf)|None
+2022-03-23|AttMask|ECCV 2022|[What to Hide from Your Students: Attention-Guided Masked Image Modeling](https://arxiv.org/pdf/2203.12719.pdf)|[AttMask](https://github.com/gkakogeorgiou/attmask)
 2022-03-29|mc-BEiT|Arxiv 2022|[mc-BEiT: Multi-choice Discretization for Image BERT Pre-training](https://arxiv.org/pdf/2203.15371.pdf)|None
 2022-04-18|Ge2-AE|Arxiv 2022|[The Devil is in the Frequency: Geminated Gestalt Autoencoder for Self-Supervised Visual Pre-Training](https://arxiv.org/pdf/2204.08227.pdf)|None
 2022-05-08|ConvMAE|Arxiv 2022|[ConvMAE: Masked Convolution Meets Masked Autoencoders](https://arxiv.org/pdf/2205.03892.pdf)|[ConvMAE](https://github.com/alpha-vl/convmae)
