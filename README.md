@@ -70,3 +70,10 @@ Date|Method|Conference|Title|Code
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2022-03-10|MedMAE|Arxiv 2022|[Self Pre-training with Masked Autoencoders for Medical Image Analysis](https://arxiv.org/pdf/2203.05573.pdf)|None
+
+
+
+## Survey.
+Date|Conference|Title
+-----|-----|-----
+2022-07-30|Arxiv 2022|[A Survey on Masked Autoencoder for Self-supervised Learning in Vision and Beyond](https://arxiv.org/pdf/2208.00173.pdf)
