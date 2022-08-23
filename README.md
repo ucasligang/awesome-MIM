@@ -36,6 +36,7 @@ Date|Method|Conference|Title|Code
 2022-06-01|LoMaR|Arxiv 2022|[Efficient Self-supervised Vision Pretraining with Local Masked Reconstruction](https://arxiv.org/pdf/2206.00790.pdf)|[LoMaR](https://github.com/junchen14/LoMaR)
 2022-06-22|SemMAE|Arxiv 2022|[SemMAE: Semantic-Guided Masking for Learning Masked Autoencoders](https://arxiv.org/pdf/2206.10207.pdf)|None
 
+
 # Others:
 ## Object detection.
 Date|Method|Conference|Title|Code
@@ -71,7 +72,9 @@ Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2022-03-10|MedMAE|Arxiv 2022|[Self Pre-training with Masked Autoencoders for Medical Image Analysis](https://arxiv.org/pdf/2203.05573.pdf)|None
 
-
+## Analysis.
+Date|Conference|Title
+2022-08-08|Arxiv 2022|[Understanding Masked Image Modeling via Learning Occlusion Invariant Feature](https://arxiv.org/pdf/2208.04164.pdf)
 
 ## Survey.
 Date|Conference|Title
