@@ -73,9 +73,9 @@ Date|Method|Conference|Title|Code
 2022-03-10|MedMAE|Arxiv 2022|[Self Pre-training with Masked Autoencoders for Medical Image Analysis](https://arxiv.org/pdf/2203.05573.pdf)|None
 
 ## Analysis.
-Date|Conference|Title
------|-----|-----
-2022-08-08|Arxiv 2022|[Understanding Masked Image Modeling via Learning Occlusion Invariant Feature](https://arxiv.org/pdf/2208.04164.pdf)
+Date|Method|Conference|Title
+-----|-----|-----|-----
+2022-08-08|RelaxMIM|Arxiv 2022|[Understanding Masked Image Modeling via Learning Occlusion Invariant Feature](https://arxiv.org/pdf/2208.04164.pdf)
 
 ## Survey.
 Date|Conference|Title
