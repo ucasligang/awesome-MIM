@@ -34,7 +34,7 @@ Date|Method|Conference|Title|Code
 2022-05-28|SupMAE|Arxiv 2022|[SupMAE: Supervised Masked Autoencoders Are Efficient Vision Learners](https://arxiv.org/pdf/2205.14540.pdf)|[SupMAE](https://github.com/cmu-enyac/supmae)
 2022-05-30|HiViT|Arxiv 2022|[HiViT: Hierarchical Vision Transformer Meets Masked Image Modeling](https://arxiv.org/abs/2205.14949.pdf)|None
 2022-06-01|LoMaR|Arxiv 2022|[Efficient Self-supervised Vision Pretraining with Local Masked Reconstruction](https://arxiv.org/pdf/2206.00790.pdf)|[LoMaR](https://github.com/junchen14/LoMaR)
-2022-06-22|SemMAE|Arxiv 2022|[SemMAE: Semantic-Guided Masking for Learning Masked Autoencoders](https://arxiv.org/pdf/2206.10207.pdf)|None
+2022-06-22|SemMAE|NeurIPS|[SemMAE: Semantic-Guided Masking for Learning Masked Autoencoders](https://arxiv.org/pdf/2206.10207.pdf)|None
 2022-08-11|MILAN|Arxiv 2022|[MILAN: Masked Image Pretraining on Language Assisted Representation](https://arxiv.org/pdf/2208.06049.pdf)|[MILAN](https://github.com/zejiangh/MILAN)
 
 # Others:
