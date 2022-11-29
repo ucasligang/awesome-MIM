@@ -36,6 +36,7 @@ Date|Method|Conference|Title|Code
 2022-06-01|LoMaR|Arxiv 2022|[Efficient Self-supervised Vision Pretraining with Local Masked Reconstruction](https://arxiv.org/pdf/2206.00790.pdf)|[LoMaR](https://github.com/junchen14/LoMaR)
 2022-06-22|SemMAE|NeurIPS 2022|[SemMAE: Semantic-Guided Masking for Learning Masked Autoencoders](https://arxiv.org/pdf/2206.10207.pdf)|[SemMAE](https://github.com/ucasligang/SemMAE)
 2022-08-11|MILAN|Arxiv 2022|[MILAN: Masked Image Pretraining on Language Assisted Representation](https://arxiv.org/pdf/2208.06049.pdf)|[MILAN](https://github.com/zejiangh/MILAN)
+2022-11-14|EVA|Arxiv 2022|[EVA: Exploring the Limits of Masked Visual Representation Learning at Scale](https://arxiv.org/pdf/2211.07636.pdf)|[EVA](https://github.com/baaivision/EVA)
 
 # Others:
 ## Object detection.
