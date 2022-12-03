@@ -69,6 +69,7 @@ Date|Method|Conference|Title|Code
 2022-04-04|MultiMAE|Arxiv 2022|[MultiMAE: Multi-modal Multi-task Masked Autoencoders](https://arxiv.org/pdf/2204.01678.pdf)|[MultiMAE](https://github.com/EPFL-VILAB/MultiMAE)
 2022-05-27|M3AE|Arxiv 2022|[Multimodal Masked Autoencoders Learn Transferable Representations](https://arxiv.org/pdf/2205.14204.pdf)| None
 2022-08-03|xxx|Arxiv 2022|[Masked Vision and Language Modeling for Multi-modal Representation Learning](https://arxiv.org/pdf/2208.02131.pdf)| None
+2022-12-01|FLIP|Arxiv 2022|[Scaling Language-Image Pre-training via Masking](https://arxiv.org/pdf/2212.00794.pdf)| None
 
 ## Medical.
 Date|Method|Conference|Title|Code
