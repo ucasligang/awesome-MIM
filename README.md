@@ -38,7 +38,7 @@ Date|Method|Conference|Title|Code
 2022-08-11|MILAN|Arxiv 2022|[MILAN: Masked Image Pretraining on Language Assisted Representation](https://arxiv.org/pdf/2208.06049.pdf)|[MILAN](https://github.com/zejiangh/MILAN)
 2022-11-14|EVA|Arxiv 2022|[EVA: Exploring the Limits of Masked Visual Representation Learning at Scale](https://arxiv.org/pdf/2211.07636.pdf)|[EVA](https://github.com/baaivision/EVA)
 2022-11-28|AMT|Arxiv 2022|[Good helper is around you: Attention-driven Masked Image Modeling](https://arxiv.org/pdf/2211.15362.pdf)|[AMT](https://github.com/guijiejie/AMT)
-2022-03-04|AMT|Arxiv 2022|[PixMIM: Rethinking Pixel Reconstruction in Masked Image Modeling](https://arxiv.org/pdf/2303.02416.pdf)|[PixMIM](https://github.com/open-mmlab/mmselfsup)
+2022-03-04|PixMIM|Arxiv 2023|[PixMIM: Rethinking Pixel Reconstruction in Masked Image Modeling](https://arxiv.org/pdf/2303.02416.pdf)|[PixMIM](https://github.com/open-mmlab/mmselfsup)
 
 # Others:
 ## Object detection.
