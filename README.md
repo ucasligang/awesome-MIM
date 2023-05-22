@@ -38,12 +38,13 @@ Date|Method|Conference|Title|Code
 2022-08-11|MILAN|Arxiv 2022|[MILAN: Masked Image Pretraining on Language Assisted Representation](https://arxiv.org/pdf/2208.06049.pdf)|[MILAN](https://github.com/zejiangh/MILAN)
 2022-11-14|EVA|Arxiv 2022|[EVA: Exploring the Limits of Masked Visual Representation Learning at Scale](https://arxiv.org/pdf/2211.07636.pdf)|[EVA](https://github.com/baaivision/EVA)
 2022-11-28|AMT|Arxiv 2022|[Good helper is around you: Attention-driven Masked Image Modeling](https://arxiv.org/pdf/2211.15362.pdf)|[AMT](https://github.com/guijiejie/AMT)
+2023-01-03|TinyMIM|CVPR 2023|[TinyMIM: An Empirical Study of Distilling MIM Pre-trained Models](https://arxiv.org/abs/2301.01296)|[TinyMIM](https://github.com/OliverRensu/TinyMIM)
 2023-03-04|PixMIM|Arxiv 2023|[PixMIM: Rethinking Pixel Reconstruction in Masked Image Modeling](https://arxiv.org/pdf/2303.02416.pdf)|[PixMIM](https://github.com/open-mmlab/mmselfsup)
 2023-03-09|LocalMIM|CVPR 2023|[Masked Image Modeling with Local Multi-Scale Reconstruction](https://arxiv.org/abs/2303.05251)|[LocalMIM](https://github.com/huawei-noah/Efficient-Computing/tree/master/Self-supervised/LocalMIM)
 2023-03-12|AutoMAE|Arxiv 2023|[Improving Masked Autoencoders by Learning Where to Mask](https://arxiv.org/abs/2303.06583)|AutoMAE
 2023-03-15|DeepMIM|Arxiv 2023|[DeepMIM: Deep Supervision for Masked Image Modeling](https://arxiv.org/abs/2303.08817)|[DeepMIM](https://github.com/OliverRensu/DeepMIM)
 2023-04-25|Img2Vec|Arxiv 2023|[Img2Vec: A Teacher of High Token-Diversity Helps Masked AutoEncoders](https://arxiv.org/pdf/2304.12535.pdf)|None
-2023-01-03|TinyMIM|CVPR 2023|[TinyMIM: An Empirical Study of Distilling MIM Pre-trained Models](https://arxiv.org/abs/2301.01296)|[TinyMIM](https://github.com/OliverRensu/TinyMIM)
+
 
 # Others:
 ## Object detection.
