@@ -57,8 +57,9 @@ Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2021-11-29|Point-BERT|CVPR 2022|[Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling](https://arxiv.org/pdf/2111.14819.pdf)|[Point-BERT](https://github.com/lulutang0608/Point-BERT)
 2022-03-28|Point-MAE|ECCV 2022|[Masked Autoencoders for Point Cloud Self-supervised Learning](https://arxiv.org/pdf/2203.06604.pdf)|[Point-MAE](https://github.com/Pang-Yatian/Point-MAE)
-2022-05-20|I2P-MAE|CVPR 2023|[Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders](https://arxiv.org/pdf/2212.06785.pdf)|[I2P-MAE](https://github.com/ZrrSkywalker/I2P-MAE)
-2023-05-20|Point-M2AE|NeurIPS 2022|[Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training](https://arxiv.org/pdf/2205.14401.pdf)|[Point-M2AE](https://github.com/ZrrSkywalker/Point-M2AE)
+2022-05-28|Point-M2AE|NeurIPS 2022|[Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training](https://arxiv.org/pdf/2205.14401.pdf)|[Point-M2AE](https://github.com/ZrrSkywalker/Point-M2AE)
+2022-12-13|I2P-MAE|CVPR 2023|[Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders](https://arxiv.org/pdf/2212.06785.pdf)|[I2P-MAE](https://github.com/ZrrSkywalker/I2P-MAE)
+
 
 ## Image generation.
 Date|Method|Conference|Title|Code
