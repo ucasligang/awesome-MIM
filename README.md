@@ -66,6 +66,11 @@ Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
 2022-02-08|MaskGIT|Arxiv 2022|[MaskGIT: Masked Generative Image Transformer](https://arxiv.org/pdf/2202.04200.pdf)|None
 
+## Unsupervised Domain Adaptation.
+Date|Method|Conference|Title|Code
+-----|----|-----|-----|-----
+2023-06-18|MIC|CVPR 2023|[MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation](https://arxiv.org/pdf/2212.01322.pdf)|None
+
 ## Video.
 Date|Method|Conference|Title|Code
 -----|----|-----|-----|-----
