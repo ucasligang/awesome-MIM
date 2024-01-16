@@ -101,3 +101,4 @@ Date|Method|Conference|Title
 Date|Conference|Title
 -----|-----|-----
 2022-07-30|Arxiv 2022|[A Survey on Masked Autoencoder for Self-supervised Learning in Vision and Beyond](https://arxiv.org/pdf/2208.00173.pdf)
+2023-12-31|Arxiv 2023|[Masked Modeling for Self-supervised Representation Learning on Vision and Beyond](https://arxiv.org/pdf/2401.00897.pdf)
