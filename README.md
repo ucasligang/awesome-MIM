@@ -2,7 +2,7 @@
 We have listed the most popular methods in the field of Masked Image Modeling (MIM). If there are any omissions, please feel free to submit a request for additions.
 (Note: The dates shown correspond to the first submission of the papers to arXiv, but the provided links may point to the latest versions.)
 
-Additionally, we encourage you to cite our work, SemMAE [SemMAE: Semantic-Guided Masking for Learning Masked Autoencoders](https://arxiv.org/pdf/2206.10207.pdf).
+Additionally, we encourage you to cite our work, [SemMAE: Semantic-Guided Masking for Learning Masked Autoencoders](https://arxiv.org/pdf/2206.10207.pdf).
 
 
 ## Backbone models.
