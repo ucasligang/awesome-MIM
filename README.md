@@ -1,8 +1,8 @@
 # awesome-MIM
-Reading list for research topics in Masked Image Modeling(MIM).
+We have listed the most popular methods in the field of Masked Image Modeling (MIM). If there are any omissions, please feel free to submit a request for additions.
+(Note: The dates shown correspond to the first submission of the papers to arXiv, but the provided links may point to the latest versions.)
 
-We list the most popular methods for MIM, if we missed something, please submit a request.
-(Note: We show the date the first edition of the paper was submitted to arxiv, but the link to the paper may be up to date.)
+Additionally, we encourage you to cite our work, SemMAE [SemMAE: Semantic-Guided Masking for Learning Masked Autoencoders](https://arxiv.org/pdf/2206.10207.pdf).
 
 
 ## Backbone models.
