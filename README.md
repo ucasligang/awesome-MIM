@@ -45,7 +45,7 @@ Date|Method|Conference|Title|Code
 2023-03-15|DeepMIM|Arxiv 2023|[DeepMIM: Deep Supervision for Masked Image Modeling](https://arxiv.org/abs/2303.08817)|[DeepMIM](https://github.com/OliverRensu/DeepMIM)
 2023-04-25|Img2Vec|Arxiv 2023|[Img2Vec: A Teacher of High Token-Diversity Helps Masked AutoEncoders](https://arxiv.org/pdf/2304.12535.pdf)|None
 2023-12-30|DTM|Arxiv 2023|[Masked Image Modeling via Dynamic Token Morphing](https://arxiv.org/pdf/2401.00254.pdf)|None
-2024-11-24|DTM|Arxiv 2024|[PR-MIM: Delving Deeper into Partial Reconstruction in Masked Image Modeling](https://arxiv.org/pdf/2411.15746)|None
+2024-11-24|PR-MIM|Arxiv 2024|[PR-MIM: Delving Deeper into Partial Reconstruction in Masked Image Modeling](https://arxiv.org/pdf/2411.15746)|None
 
 # Others:
 ## Object detection.
