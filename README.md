@@ -37,7 +37,7 @@ Date|Method|Conference|Title|Code
 2022-06-22|SemMAE|NeurIPS 2022|[SemMAE: Semantic-Guided Masking for Learning Masked Autoencoders](https://arxiv.org/pdf/2206.10207.pdf)|[SemMAE](https://github.com/ucasligang/SemMAE)
 2022-08-11|MILAN|Arxiv 2022|[MILAN: Masked Image Pretraining on Language Assisted Representation](https://arxiv.org/pdf/2208.06049.pdf)|[MILAN](https://github.com/zejiangh/MILAN)
 2022-11-14|EVA|Arxiv 2022|[EVA: Exploring the Limits of Masked Visual Representation Learning at Scale](https://arxiv.org/pdf/2211.07636.pdf)|[EVA](https://github.com/baaivision/EVA)
-2022-11-28|AMT|Arxiv 2022|[Good helper is around you: Attention-driven Masked Image Modeling](https://arxiv.org/pdf/2211.15362.pdf)|[AMT](https://github.com/guijiejie/AMT)
+2022-11-28|AMT|AAAI 2023|[Good helper is around you: Attention-driven Masked Image Modeling](https://arxiv.org/pdf/2211.15362.pdf)|[AMT](https://github.com/guijiejie/AMT)
 2023-01-03|TinyMIM|CVPR 2023|[TinyMIM: An Empirical Study of Distilling MIM Pre-trained Models](https://arxiv.org/abs/2301.01296)|[TinyMIM](https://github.com/OliverRensu/TinyMIM)
 2023-03-04|PixMIM|Arxiv 2023|[PixMIM: Rethinking Pixel Reconstruction in Masked Image Modeling](https://arxiv.org/pdf/2303.02416.pdf)|[PixMIM](https://github.com/open-mmlab/mmselfsup)
 2023-03-09|LocalMIM|CVPR 2023|[Masked Image Modeling with Local Multi-Scale Reconstruction](https://arxiv.org/abs/2303.05251)|[LocalMIM](https://github.com/huawei-noah/Efficient-Computing/tree/master/Self-supervised/LocalMIM)
