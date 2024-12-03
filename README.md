@@ -78,7 +78,7 @@ Date|Method|Conference|Title|Code
 2021-12-02|BEVT|Arxiv 2021|[BEVT: BERT Pretraining of Video Transformers](https://arxiv.org/pdf/2112.01529.pdf)|[BEVT](https://github.com/xyzforever/BEVT)
 2022-03-23|VideoMAE|NeurIPS 2022|[VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training](https://arxiv.org/abs/2203.12602)|[VideoMAE](https://github.com/MCG-NJU/VideoMAE)
 2022-05-18|MAE_ST|NeurIPS 2022|[Masked Autoencoders As Spatiotemporal Learners](https://arxiv.org/pdf/2205.09113.pdf)|[MAE_ST](https://github.com/facebookresearch/mae_st)
-
+2023-03-29|VideoMAE v2|CVPR 2023|[VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking](https://arxiv.org/pdf/2303.16727)|None
 
 ## Multi-modal.
 Date|Method|Conference|Title|Code
